@@ -80,7 +80,7 @@ img {
   width: 28px;
   height: 28px;
   color: #64099b;
-  background-image: url("/assets/cart.svg");
+  background-image: url("./assets/cart.svg");
   background-position: center;
   background-repeat: no-repeat;
   font-size: 12px;
@@ -95,7 +95,7 @@ img {
 .hero__container {
   padding-top: 210px;
   padding-bottom: 80px;
-  background-image: url("/assets/hero.png");
+  background-image: url("./assets/hero.png");
   background-repeat: no-repeat;
   background-position: right 113px bottom 0;
 }
